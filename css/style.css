@@ -1,0 +1,21 @@
+body{
+    background-image: url(../photo/weather.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+   
+   .row .box-today{
+   background-color: rgba(0,0, 0,0.6);
+   }
+   .box-tomorrow{
+    background-color: rgba(0,0, 0,0.6);
+   }
+   .box-after{
+    background-color: rgba(0,0, 0,0.6);
+   }
+::placeholder {
+    color: #ffffff;/
+}
